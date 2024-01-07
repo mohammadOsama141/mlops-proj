@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         Air       0.68      0.92      0.78      1373
+       Truck       0.70      0.39      0.50       626
+ Air Charter       0.65      0.11      0.18       160
+       Ocean       0.00      0.00      0.00        83
+
+    accuracy                           0.68      2242
+   macro avg       0.51      0.36      0.37      2242
+weighted avg       0.66      0.68      0.63      2242
